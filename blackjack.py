@@ -45,7 +45,7 @@ def mostrar_cartas(tipo):
     for carta in jcartas:
         n += carta.numero
     if n > 21:
-            print("TE HAS PASADO DE 21, HAS PERDIDO")
+            print("TE HAS PASADO DE 21, HAS PERDIDO JAJA")
             exit()
     elif tipo == 1:
         j = 0
