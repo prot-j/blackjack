@@ -70,7 +70,7 @@ def mostrar_cartas(tipo):
             print("Total del crupier: ",c)
             exit()    
         elif j < c:
-            print("HAS PERDIDO")
+            print("HAS PERDIDO JAJA")
             print("Total del jugador: ",j)
             print("Total del crupier: ",c)
             exit()
